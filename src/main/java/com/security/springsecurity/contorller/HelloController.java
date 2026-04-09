@@ -1,4 +1,4 @@
-package com.security.springsecurity;
+package com.security.springsecurity.contorller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

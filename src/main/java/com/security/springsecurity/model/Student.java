@@ -1,4 +1,4 @@
-package com.security.springsecurity;
+package com.security.springsecurity.model;
 
 public class Student {
     private String name;
